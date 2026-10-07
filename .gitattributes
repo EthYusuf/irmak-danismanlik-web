@@ -1,0 +1,13 @@
+# Metin dosyaları depoda LF satır sonuyla saklanır
+* text=auto eol=lf
+
+# Windows betikleri CRLF ile çalışır
+*.bat text eol=crlf
+*.ps1 text eol=crlf
+
+# İkili dosyalar
+*.jpg binary
+*.png binary
+*.webp binary
+*.ico binary
+*.woff2 binary

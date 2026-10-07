@@ -1,0 +1,5 @@
+# Irmak Danışmanlık – arama motoru erişim kuralları
+User-agent: *
+Allow: /
+
+Sitemap: https://{{ALAN_ADI}}/sitemap.xml

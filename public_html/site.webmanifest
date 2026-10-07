@@ -1,0 +1,28 @@
+{
+  "name": "Irmak Danışmanlık",
+  "short_name": "Irmak Danışmanlık",
+  "description": "Evde yaşlı bakımı, yatılı ve gündüzlü bakıcı, hasta bakımı, hastane refakatçi ve çocuk bakımı hizmetleri.",
+  "lang": "tr",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FBF7F0",
+  "theme_color": "#23422F",
+  "icons": [
+    {
+      "src": "/assets/img/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/img/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/img/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

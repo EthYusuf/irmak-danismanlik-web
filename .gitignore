@@ -1,0 +1,9 @@
+# Doldurma aracının aldığı şablon yedeği
+_sablon-yedek.zip
+
+# İşletim sistemi ve editör dosyaları
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+*.tmp
