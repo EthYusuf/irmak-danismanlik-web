@@ -15,7 +15,7 @@ Site saf HTML, CSS ve JavaScript ile yazılmıştır. Veritabanı, PHP veya ekle
 - **14 sayfa:** her hizmet için Google'da ayrı aranabilen, kendi başlığı ve açıklaması olan sayfa
 - **Yerel SEO:** işletme, hizmet, SSS ve sayfa konumu için yapılandırılmış veriler (Schema.org JSON-LD), site haritası, `robots.txt`, Open Graph paylaşım görseli
 - **Yaşlı ziyaretçiler için erişilebilirlik:** yazı boyutu büyütme düğmeleri (A / A+ / A++), büyük dokunma alanları, görme güçlüğü olan okurlar için tasarlanmış *Atkinson Hyperlegible* yazı tipi, klavye ile gezinme ve "İçeriğe geç" bağlantısı
-- **Telefon ve WhatsApp odaklı iletişim:** mobilde sabit "Hemen Ara" ve "WhatsApp" düğmeleri; iletişim formu bilgileri sunucuya göndermeden hazır bir WhatsApp mesajına dönüştürür
+- **Telefon ve WhatsApp odaklı iletişim:** iki telefon numarası her zaman ekranda (masaüstünde üst menüde, mobilde alttaki sabit çubukta); iletişim formu bilgileri sunucuya göndermeden hazır bir WhatsApp mesajına dönüştürür
 - **Hız:** WebP görseller, tembel yükleme, sunucuda barındırılan yazı tipleri, gzip sıkıştırma ve tarayıcı önbelleği (`.htaccess`)
 - **Gizlilik:** üçüncü taraf takip kodu ve çerez yok; harita yalnızca ziyaretçi tıklayınca yüklenir; KVKK aydınlatma metni
 

@@ -125,5 +125,5 @@ Bundan sonrası için:
   - görme güçlüğü olan okurlar için tasarlanmış *Atkinson Hyperlegible* yazı tipi.
 - Yazı tipleri sunucunuzda barındırılır (Google Fonts'a bağlantı yok, KVKK açısından daha güvenli).
 - Harita yalnızca ziyaretçi tıklayınca yüklenir (hız ve gizlilik için).
-- Mobilde ekranın altında sabit "Hemen Ara" ve "WhatsApp" düğmeleri bulunur.
+- İki telefon numarası da her zaman ekranda: masaüstünde üst menüde, mobilde ekranın altındaki sabit çubukta (iki arama düğmesi ve WhatsApp).
 - WebP görseller, tembel yükleme, gzip sıkıştırma ve tarayıcı önbelleği sayesinde sayfalar hızlı açılır.
