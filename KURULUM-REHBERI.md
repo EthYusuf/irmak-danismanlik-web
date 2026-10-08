@@ -5,7 +5,7 @@ Bu klasörde, sunucunuzdaki **public_html** klasörüne yüklemeye hazır, SEO u
 **Sayfalara işlenmiş bilgiler:**
 - Firma adı: **Irmak Danışmanlık**
 - Konum: **Bağcılar, İstanbul**
-- Telefon ve WhatsApp: **0542 581 30 72**
+- Telefon: **0542 581 30 72** ve **0541 307 34 72** (WhatsApp düğmeleri ve iletişim formu ilk numarayı kullanır)
 - Bakıcı ekibi: **Türk, Özbek ve Türkmen bakıcılar** (ana sayfa, Hakkımızda, Yatılı Bakıcı ve SSS sayfalarında)
 - Hizmetler: evde yaşlı bakımı, yatılı ve gündüzlü bakıcı, evde hasta bakımı, Alzheimer ve demans bakımı, hastane refakatçi ve **çocuk bakımı**
 - E-posta: **kullanılmıyor.** İletişim yalnızca telefon ve WhatsApp üzerinden yapılır.
@@ -50,7 +50,7 @@ yaşlıbakımı_website/
 |---|---|
 | `{{ALAN_ADI}}` | Alan adı, örn. `irmakdanismanlik.com` |
 
-Telefon numarasını ileride değiştirmek isterseniz yine Ctrl + Shift + H ile `0542 581 30 72` ve `905425813072` ifadelerini tüm dosyalarda yeni numarayla değiştirin.
+Telefon numaralarını ileride değiştirmek isterseniz yine Ctrl + Shift + H ile tüm dosyalarda değiştirin: ilk numara için `0542 581 30 72` ve `905425813072`, ikinci numara için `0541 307 34 72` ve `905413073472`.
 
 ---
 

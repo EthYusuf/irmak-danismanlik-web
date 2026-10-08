@@ -74,7 +74,9 @@ python -m http.server 8080
 
 ## İletişim
 
-**Irmak Danışmanlık** · Bağcılar, İstanbul · Telefon ve WhatsApp: [0542 581 30 72](tel:+905425813072)
+**Irmak Danışmanlık** · Bağcılar, İstanbul
+
+Telefon: [0542 581 30 72](tel:+905425813072) · [0541 307 34 72](tel:+905413073472) · WhatsApp: [0542 581 30 72](https://wa.me/905425813072)
 
 ## Lisans ve üçüncü taraf içerikler
 

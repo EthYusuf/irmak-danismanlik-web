@@ -1253,6 +1253,10 @@ address { font-style: normal; }
   word-break: break-word;
 }
 .cta-band__phone:hover { color: var(--terra-600); }
+.cta-band__phones { display: grid; justify-items: start; gap: 2px; margin: 6px 0 18px; }
+.cta-band__phones .cta-band__phone { margin: 0; }
+.cta-band__phone--alt { font-size: clamp(1.35rem, 1.4vw + 0.7rem, 1.85rem); }
+.cta-band__phone--alt .icon { width: 0.9em; height: 0.9em; }
 .cta-band__buttons { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
 .cta-band__buttons .btn { padding-inline: 0.9em; white-space: nowrap; }
 
